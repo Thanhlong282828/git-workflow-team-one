@@ -1,1 +1,1 @@
-console.log(`Payroll model`);
+console.log(`Update Payroll model`);
